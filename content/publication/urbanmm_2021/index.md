@@ -17,11 +17,11 @@ author_notes:
 - ""
 - ""
 
-date: "2021-08-01T00:00:00Z"
-doi: ""
+date: "2021-08-31T00:00:00Z"
+doi: "10.1145/3475721.3484312"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-01T00:00:00Z"
+publishDate: "2021-08-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,9 +31,9 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *1st International Workshop on Multimedia Computing for Urban Data*
-publication_short: In *ACMMM*
+publication_short: In *ACM MULTIMEDIA*
 
-abstract: The smart city concept has now become one of the key enablers in urban city management. The adoption and permeation of ICT and AI-driven techniques have enabled the authorities to resolve poor urban planning issues with improved delivery of citizen services. One of the key existing urban problems is addressing the accessibility issue across  cities road crossing and facilitating visually impaired people via well-defined infrastructure. The research presented in this paper emphasized urban analytics that studies the road crossings and challenges one faces when accessing the footpaths of a city using the Tactile surfaces. This work demonstrates a distributed event analytics platform- GNOSIS to detect complex accessibility event patterns. GNOSIS ingest video data streams from cities infrastructure such as CCTV and detect tactile surface event patterns using an ensemble of deep learning models using a declarative query language. The work analyzes mainly three types of tactile surface - Blister, Cycleway and Directional, collected from different cities in Ireland using crowdsourcing techniques. Depending on the type of tactile surface, its colour and the making pattern, GNOSIS makes decisions in real-time and can play a vital role in aiding accessibility analytics that helps city planners in making careful navigational decisions in future plans.
+abstract: The smart city concept has now become one of the key enablers in urban city management. The adoption and permeation of ICT and AI-driven techniques have enabled the authorities to resolve poor urban planning issues with improved delivery of citizen services. Major urban problem is addressing the accessibility issue across cities road crossing and facilitating visually impaired people via well-defined infrastructure. The research presented in this paper emphasized urban analytics that studies the road crossings and challenges one faces when accessing the footpaths of a city using the Tactile surfaces. This work demonstrates a distributed event analytics platform- GNOSIS to detect complex accessibility event patterns. GNOSIS ingest video data streams from cities infrastructure such as CCTV and detect tactile surface event patterns using an ensemble of deep learning models using a declarative query language. The work analyzes mainly three types of tactile surface - Blister, Cycleway and Directional, collected from different cities in Ireland using crowd-sourcing techniques. GNOSIS makes decisions in real-time based on the type of tactile surface, colour and the making pattern.
 
 # Summary. An optional shortened abstract.
 summary: The work presents GNOSIS an urban analytics event engine that continuously monitors the incoming stream of pavements and generates notifications about the Crossing Type. It uses the colour of the pavings and paving type to make predictions. The research demonstrates how GNOSIS can automate the pavement detection process and guidance analysis.
@@ -41,7 +41,7 @@ summary: The work presents GNOSIS an urban analytics event engine that continuou
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -69,7 +69,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: 
 - 
 
 # Slides (optional).
