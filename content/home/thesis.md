@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 63
+weight: 62
 
 title: Thesis
 subtitle: 'Msc. Data Analytics'

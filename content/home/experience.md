@@ -38,7 +38,7 @@ experience:
       * Designed benchmarking platform for a CEP Pipeline that includes Object Detection, Object Tracking and Annotation via Jaegar/Python.
       * Modelled data obtained through the CEP pipeline into a Knowledge Graph through spatiotemporal relationships. 
       * Designed a matching engine for video querying that uses an openCypher query to explore Knowledge Graphs.
-      * Devised a schematic approach to video querying by writing a Grammar for Video Query Language in ANTLR4.
+      * Paper on Query Driven Urban Accessibility using complex event processing accepted in ACM Multimedia 2021.
       * Assistant Chair and co-organiser for the 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science, Galway, Ireland, December 5-6, 2019. 
 
       Technologies: Python3, TensorFlow, Pytorch, Docker, RedisGraph, RedisStreams, DNN models.

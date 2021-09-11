@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 64
+weight: 67
 
 title: Research Projects
 subtitle: 'Data Science Institute'
