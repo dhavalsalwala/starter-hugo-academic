@@ -22,7 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Engineer
+  - title: Research Engineer - ML and Big Data
+    company: IBM Research Europe Dublin
+    company_url: 'https://research.ibm.com/labs/ireland/'
+    company_logo: ibm
+    location: Dublin, Ireland
+    date_start: '2022-01-10'
+    date_end: ''
+    description: |2-
+
+  - title: Research Engineer - Multimodal Analytics
     company: Data Science Institute, NUI Galway
     company_url: 'https://datascienceinstitute.ie/'
     company_logo: dsi

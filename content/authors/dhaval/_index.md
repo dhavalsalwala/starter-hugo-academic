@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer
+role: Research Engineer - ML
 
 # Organizations/Affiliations
 organizations:
-- name: Data Science Institute, NUI Galway
-  url: "https://dsi.nuigalway.ie/"
+- name: IBM Research Europe - Dublin
+  url: "https://research.ibm.com/labs/ireland/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning, Multimedia Analytics, Complex Event Processing.
@@ -68,14 +68,11 @@ user_groups:
 - Visitors
 ---
 <p style='text-align: justify;'>
-I am a Research Assistant at the Insight Centre for Data Analytics and Data Science Institute at NUI Galway (NUIG) Ireland since October 2019. 
-I am working with Dr. Edward Curry in Multimedia Complex Event Processing.
-I am working in the Smart Cities and Sustainable IT group where I am researching in the field of realtime analytics and pattern detection for Multimedia Data Streams.
-</p>
+Currently, I am working in the position of Senior Research Engineer at IBM Research Ireland on a European Innovation Framework H2020 project on the Renewable Energy Sources (RES) sector.  
 
-<p style='text-align: justify;'>
-Before this, I worked as a Software Professional for over 5 years in the Finance Sector at Tata Consultancy Services (TCS).
-I have comprehensive experience in designing, developing and deploying E2E architecture for complex business process and data processing pipeline.
-My comprehensive IT experience has given me a strong exposure to the functional and data architectures of critical operations. 
-I was a chief developer to applications like Cash Payment System for Eurex Trading Platform T7 and Risk Management System for Citigroup. 
+Previously, I have worked with Dr Edward Curry in Multimedia Complex Event Processing in the Smart Cities and Sustainable IT group at the Insight Centre for Data Analytics at NUI Galway (NUIG). Here, I was researching in the field of real-time analytics and pattern detection for Multimedia Data Streams.
+
+I am an experienced software professional with 7+ years of diversified industry experience. Led projects on developing ML solutions for multi-modal analytics using Computer Vision and Neuro Symbolic AI. I have worked on Computer Vision problems, multi-modal data analysis, Knowledge Graphs, Complex Event Processing and Deep Learning. Experienced in MLOps / AIOps processes including ML training / serving pipelines, CI/CD pipelines.
+
+Passionate about building computer vision AI tools with research interests in Big Data and Reinforcement Learning (RL).
 </p>
